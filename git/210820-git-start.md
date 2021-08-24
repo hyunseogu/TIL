@@ -16,6 +16,6 @@
 
 
 
-## 내일 한 일
+## 내일 할 일
 
 - logical thinking TIL 작성을 완료
